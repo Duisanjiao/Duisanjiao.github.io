@@ -1,2 +1,2 @@
 # TrianglePile
-笔记
+notes
