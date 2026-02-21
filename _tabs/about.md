@@ -5,4 +5,3 @@ order: 4
 ---
 
 > note
-{: .prompt-tip }
