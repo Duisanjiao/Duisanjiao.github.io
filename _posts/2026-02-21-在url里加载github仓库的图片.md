@@ -1,6 +1,6 @@
 ---
 title: 在url里加载github仓库的图片
-date: 2026-02-21 20:40:00 +0900
+date: 2026-02-21 20:40:00 +0800
 categories: [URL]
 tags: [url_load, github]
 ---
@@ -21,5 +21,5 @@ tags: [url_load, github]
 <img src="https://raw.githubusercontent.com/Duisanjiao/Duisanjiao.github.io/main/assets/img/avatar.png" width="112" height="112" alt="avatar" onerror="this.style.display='none'" style="display: none;">
 ```
 
-可以直接访问原始数据。
+可以直接访问原始数据。 (≧∀≦)ゞ
 
