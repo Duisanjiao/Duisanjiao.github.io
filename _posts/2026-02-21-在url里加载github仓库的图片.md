@@ -7,7 +7,7 @@ tags: [url_load, github]
 
 在搭建我的笔记记录网站时，我要载入图片作为头像。
 
-我开始直接尝试用图片的 *URL* 载入。
+我开始直接尝试用图片的 **URL** 载入。
 
 ```html
 <img src="https://github.com/Duisanjiao/Duisanjiao.github.io/blob/main/assets/img/avatar.png" width="112" height="112" alt="avatar" onerror="this.style.display='none'" style="display: none;">
